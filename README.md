@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aghniyan)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aghniyan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Aghniyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghniyan&show_icons=true&theme=radical)
 
 ![Aghniyan's GitHub Privat stats](https://github-readme-stats.vercel.app/api?username=Aghniyan&show_icons=true&theme=radical&count_private=true)
-
+-->
 
 ![](https://komarev.com/ghpvc/?username=Aghniyan&label=VISITOR)
